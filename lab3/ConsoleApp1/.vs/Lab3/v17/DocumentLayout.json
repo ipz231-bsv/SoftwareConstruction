@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531D62-6557-4E99-A1B9-4A4476F3BD50}|..\\Task6\\Task6.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab3\\task6\\book.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531D62-6557-4E99-A1B9-4A4476F3BD50}|..\\Task6\\Task6.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab3\\task6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531D62-6557-4E99-A1B9-4A4476F3BD50}|..\\Task6\\Task6.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab3\\task6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531D62-6557-4E99-A1B9-4A4476F3BD50}|..\\Task6\\Task6.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab3\\task6\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531D62-6557-4E99-A1B9-4A4476F3BD50}|..\\Task6\\Task6.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab3\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightNode.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\LightNode.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightNode.cs",
+              "RelativeToolTip": "..\\Task6\\LightNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:12:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\LightTextNode.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightTextNode.cs",
+              "RelativeToolTip": "..\\Task6\\LightTextNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:12:14.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\LightElementNode.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\LightElementNode.cs",
+              "RelativeToolTip": "..\\Task6\\LightElementNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:12:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\Program.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\Program.cs",
+              "RelativeToolTip": "..\\Task6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:12:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "book.txt",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\book.txt",
+              "RelativeDocumentMoniker": "..\\Task6\\book.txt",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab3\\Task6\\book.txt",
+              "RelativeToolTip": "..\\Task6\\book.txt",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4WAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-30T10:15:22.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

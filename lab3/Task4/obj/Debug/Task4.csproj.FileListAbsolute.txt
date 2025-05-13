@@ -1,0 +1,8 @@
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\bin\Debug\Task4.exe.config
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\bin\Debug\Task4.exe
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\bin\Debug\Task4.pdb
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\obj\Debug\Task4.exe
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\obj\Debug\Task4.pdb
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\Task4\bin\Debug\text1.txt

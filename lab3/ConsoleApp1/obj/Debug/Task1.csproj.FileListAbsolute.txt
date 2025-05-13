@@ -1,0 +1,7 @@
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
