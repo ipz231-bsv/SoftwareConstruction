@@ -1,0 +1,15 @@
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\bin\Debug\net8.0\Task1.exe
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\bin\Debug\net8.0\Task1.deps.json
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\bin\Debug\net8.0\Task1.dll
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\bin\Debug\net8.0\Task1.pdb
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.sourcelink.json
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.dll
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\refint\Task1.dll
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.pdb
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Projects\2 Курс\2 семестер\KP3\SoftwareConstruction\lab4\ConsoleApp2\obj\Debug\net8.0\ref\Task1.dll
