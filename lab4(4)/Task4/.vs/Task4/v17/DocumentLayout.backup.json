@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\lightimageelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:lightimageelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\networkimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:networkimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\filesystemimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:filesystemimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\iimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:iimageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|c:\\projects\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\kp3\\softwareconstruction\\lab4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59F8E1-FA91-4212-9525-04291184C22C}|Task4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightElementNode.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\LightElementNode.cs",
+              "RelativeToolTip": "LightElementNode.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:25:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightImageElementNode.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\LightImageElementNode.cs",
+              "RelativeDocumentMoniker": "LightImageElementNode.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\LightImageElementNode.cs",
+              "RelativeToolTip": "LightImageElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:24:26.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkImageLoadStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\NetworkImageLoadStrategy.cs",
+              "RelativeDocumentMoniker": "NetworkImageLoadStrategy.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\NetworkImageLoadStrategy.cs",
+              "RelativeToolTip": "NetworkImageLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:24:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileSystemImageLoadStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\FileSystemImageLoadStrategy.cs",
+              "RelativeDocumentMoniker": "FileSystemImageLoadStrategy.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\FileSystemImageLoadStrategy.cs",
+              "RelativeToolTip": "FileSystemImageLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:24:19.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImageLoadStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\IImageLoadStrategy.cs",
+              "RelativeDocumentMoniker": "IImageLoadStrategy.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\IImageLoadStrategy.cs",
+              "RelativeToolTip": "IImageLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:24:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\2 \u041A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0435\u0440\\KP3\\SoftwareConstruction\\lab4\\Task4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:19:01.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
